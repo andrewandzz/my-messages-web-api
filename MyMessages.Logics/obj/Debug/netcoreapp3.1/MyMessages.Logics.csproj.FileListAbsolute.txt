@@ -1,0 +1,12 @@
+D:\study\csharp\MyMessages\MyMessages.Logics\bin\Debug\netcoreapp3.1\MyMessages.Data.dll
+D:\study\csharp\MyMessages\MyMessages.Logics\obj\Debug\netcoreapp3.1\MyMessages.Logics.csprojAssemblyReference.cache
+D:\study\csharp\MyMessages\MyMessages.Logics\obj\Debug\netcoreapp3.1\MyMessages.Logics.AssemblyInfoInputs.cache
+D:\study\csharp\MyMessages\MyMessages.Logics\obj\Debug\netcoreapp3.1\MyMessages.Logics.AssemblyInfo.cs
+D:\study\csharp\MyMessages\MyMessages.Logics\bin\Debug\netcoreapp3.1\MyMessages.Logics.deps.json
+D:\study\csharp\MyMessages\MyMessages.Logics\bin\Debug\netcoreapp3.1\MyMessages.Logics.dll
+D:\study\csharp\MyMessages\MyMessages.Logics\bin\Debug\netcoreapp3.1\MyMessages.Logics.pdb
+D:\study\csharp\MyMessages\MyMessages.Logics\bin\Debug\netcoreapp3.1\MyMessages.Data.pdb
+D:\study\csharp\MyMessages\MyMessages.Logics\obj\Debug\netcoreapp3.1\MyMessages.Logics.csproj.CoreCompileInputs.cache
+D:\study\csharp\MyMessages\MyMessages.Logics\obj\Debug\netcoreapp3.1\MyMessages.Logics.csproj.CopyComplete
+D:\study\csharp\MyMessages\MyMessages.Logics\obj\Debug\netcoreapp3.1\MyMessages.Logics.dll
+D:\study\csharp\MyMessages\MyMessages.Logics\obj\Debug\netcoreapp3.1\MyMessages.Logics.pdb

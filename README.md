@@ -1,0 +1,1 @@
+This is a test project created with ASP.NET Core Web API and Angular.

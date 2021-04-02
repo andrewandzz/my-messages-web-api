@@ -1,0 +1,3 @@
+[submodule "MyMessages.Api/ClientApp"]
+	path = MyMessages.Api/ClientApp
+	url = https://github.com/andrewandzz/my-messages-angular.git

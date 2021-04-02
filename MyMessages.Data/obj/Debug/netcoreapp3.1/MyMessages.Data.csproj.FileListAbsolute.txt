@@ -1,0 +1,12 @@
+D:\study\csharp\MyMessages\MyMessages.Data\bin\Debug\netcoreapp3.1\MyMessages.Data.deps.json
+D:\study\csharp\MyMessages\MyMessages.Data\bin\Debug\netcoreapp3.1\MyMessages.Data.dll
+D:\study\csharp\MyMessages\MyMessages.Data\bin\Debug\netcoreapp3.1\MyMessages.Data.pdb
+D:\study\csharp\MyMessages\MyMessages.Data\obj\Debug\netcoreapp3.1\MyMessages.Data.csprojAssemblyReference.cache
+D:\study\csharp\MyMessages\MyMessages.Data\obj\Debug\netcoreapp3.1\MyMessages.Data.AssemblyInfoInputs.cache
+D:\study\csharp\MyMessages\MyMessages.Data\obj\Debug\netcoreapp3.1\MyMessages.Data.AssemblyInfo.cs
+D:\study\csharp\MyMessages\MyMessages.Data\obj\Debug\netcoreapp3.1\MyMessages.Data.csproj.CoreCompileInputs.cache
+D:\study\csharp\MyMessages\MyMessages.Data\obj\Debug\netcoreapp3.1\MyMessages.Data.dll
+D:\study\csharp\MyMessages\MyMessages.Data\obj\Debug\netcoreapp3.1\MyMessages.Data.pdb
+D:\study\csharp\MyMessages\MyMessages.Data\bin\Debug\netcoreapp3.1\MyMessages.Data.runtimeconfig.json
+D:\study\csharp\MyMessages\MyMessages.Data\bin\Debug\netcoreapp3.1\MyMessages.Data.runtimeconfig.dev.json
+D:\study\csharp\MyMessages\MyMessages.Data\obj\Debug\netcoreapp3.1\MyMessages.Data.genruntimeconfig.cache
